@@ -3,8 +3,8 @@
 #use strict;
 #use warnings;
 
-system("sudo ./BINARY.setup")
-system("source bin/ccp4.setup-sh")
+system("sudo /home/ubuntu/pisa/ccp4-6.5/./BINARY.setup");
+system("source /home/ubuntu/pisa/ccp4-6.5/bin/ccp4.setup-sh");
 
 
 open (pdbFilesList, '/home/ubuntu/Perl-code/pdb.txt');
