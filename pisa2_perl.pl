@@ -1,7 +1,9 @@
-    #!/usr/bin/perl
+#! perl -sw
+use strict;
+use threads;
+use threads::shared;
+use Data::Dumper;
 
-#use strict;
-#use warnings;
 
 system("sudo /home/ubuntu/pisa/ccp4-6.5/./BINARY.setup");
 system("source /home/ubuntu/pisa/ccp4-6.5/bin/ccp4.setup-sh");
