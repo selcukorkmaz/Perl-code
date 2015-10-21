@@ -13,10 +13,7 @@ while (<pdbFilesList>) {
     ($name, $file) = split("\t");
     
     system("pisa $name -analyse $file");
-    system("pisa $name -list assem >  /home/ubuntu/assemblises/assem_$name");
-    system("pisa $name -list interf > /home/ubuntu/interfaces/interf_$name");
     system("pisa $name -xml assem > /home/ubuntu/assmebliesXML/assem_$name.xml");
-    system("pisa $name -xml interf > /home/ubuntu/interfacesXML/interf_$name.xml");
     
 }
 #$x . ' ' . $y;
