@@ -1,5 +1,5 @@
 #! perl -sw
-use strict;
+#use strict;
 use threads;
 use threads::shared;
 use Data::Dumper;
