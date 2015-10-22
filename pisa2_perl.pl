@@ -16,6 +16,8 @@ while (<pdbFilesList>) {
     
     system("pisa $name -analyse $file");
     system("pisa $name -xml assem > /home/ubuntu/assmebliesXML/assem_$name.xml");
+    system("sudo rm -r /tmp/*");
+
     
 }
 #$x . ' ' . $y;
