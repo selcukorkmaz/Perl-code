@@ -9,7 +9,7 @@ system("sudo /home/ubuntu/pisa/ccp4-6.5/./BINARY.setup");
 system("source /home/ubuntu/pisa/ccp4-6.5/bin/ccp4.setup-sh");
 
 
-open (pdbFilesList, '/home/ubuntu/Perl-code/pdb_7.txt);
+open (pdbFilesList, '/home/ubuntu/Perl-code/pdb_7.txt');
 while (<pdbFilesList>) {
     chomp;
     ($name, $file) = split("\t");
