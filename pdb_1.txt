@@ -1,4 +1,3 @@
-4cr4	/home/ubuntu/pisa/pdb/mmCIF/cr/4cr4.cif.gz
 4cr5	/home/ubuntu/pisa/pdb/mmCIF/cr/4cr5.cif.gz
 4cr6	/home/ubuntu/pisa/pdb/mmCIF/cr/4cr6.cif.gz
 4cr7	/home/ubuntu/pisa/pdb/mmCIF/cr/4cr7.cif.gz
