@@ -1,4 +1,3 @@
-4l6v	/home/ubuntu/pisa/pdb/mmCIF/l6/4l6v.cif.gz
 4l6w	/home/ubuntu/pisa/pdb/mmCIF/l6/4l6w.cif.gz
 4l6x	/home/ubuntu/pisa/pdb/mmCIF/l6/4l6x.cif.gz
 4l6y	/home/ubuntu/pisa/pdb/mmCIF/l6/4l6y.cif.gz
