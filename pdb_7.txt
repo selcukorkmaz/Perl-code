@@ -1,4 +1,3 @@
-4tni	/home/ubuntu/pisa/pdb/mmCIF/tn/4tni.cif.gz
 4tnj	/home/ubuntu/pisa/pdb/mmCIF/tn/4tnj.cif.gz
 4tnk	/home/ubuntu/pisa/pdb/mmCIF/tn/4tnk.cif.gz
 4tnl	/home/ubuntu/pisa/pdb/mmCIF/tn/4tnl.cif.gz

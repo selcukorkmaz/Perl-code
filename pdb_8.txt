@@ -1,5 +1,3 @@
-2wsd	/home/ubuntu/pisa/pdb/mmCIF/ws/2wsd.cif.gz
-2wse	/home/ubuntu/pisa/pdb/mmCIF/ws/2wse.cif.gz
 2wsf	/home/ubuntu/pisa/pdb/mmCIF/ws/2wsf.cif.gz
 2wsh	/home/ubuntu/pisa/pdb/mmCIF/ws/2wsh.cif.gz
 2wsi	/home/ubuntu/pisa/pdb/mmCIF/ws/2wsi.cif.gz
