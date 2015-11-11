@@ -1,12 +1,3 @@
-1yik	/home/ubuntu/pisa/pdb/mmCIF/yi/1yik.cif.gz
-1yil	/home/ubuntu/pisa/pdb/mmCIF/yi/1yil.cif.gz
-1yim	/home/ubuntu/pisa/pdb/mmCIF/yi/1yim.cif.gz
-1yin	/home/ubuntu/pisa/pdb/mmCIF/yi/1yin.cif.gz
-1yio	/home/ubuntu/pisa/pdb/mmCIF/yi/1yio.cif.gz
-1yip	/home/ubuntu/pisa/pdb/mmCIF/yi/1yip.cif.gz
-1yiq	/home/ubuntu/pisa/pdb/mmCIF/yi/1yiq.cif.gz
-1yir	/home/ubuntu/pisa/pdb/mmCIF/yi/1yir.cif.gz
-1yis	/home/ubuntu/pisa/pdb/mmCIF/yi/1yis.cif.gz
 1yit	/home/ubuntu/pisa/pdb/mmCIF/yi/1yit.cif.gz
 1yiu	/home/ubuntu/pisa/pdb/mmCIF/yi/1yiu.cif.gz
 1yiv	/home/ubuntu/pisa/pdb/mmCIF/yi/1yiv.cif.gz
